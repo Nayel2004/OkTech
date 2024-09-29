@@ -16,7 +16,7 @@ const productos = [
  { 
     id: "accesorio-02",
     titulo: "Audifonos 2",
-    imagen: "./img/accesorios/audifonos 2.jfif",
+    imagen: "./img/Accesorios/audifonos 2.jfif",
     categoria: {
         nombre: "Accesorios",
         id:"accesorios"
@@ -49,7 +49,7 @@ const productos = [
 { 
     id: "accesorio-05",
     titulo: "soporte 5",
-    imagen: "./img/accesorios/soporte 5.jpg",
+    imagen: "./img/Accesorios/soporte 5.jpg",
     categoria: {
         nombre: "Accesorios",
         id:"accesorios"
@@ -60,7 +60,7 @@ const productos = [
 { 
     id: "accesorio-06",
     titulo: "Soporte 6",
-    imagen: "./img/accesorios/soporte 6.jpg",
+    imagen: "./img/Accesorios/soporte 6.jpg",
     categoria: {
         nombre: "Accesorios",
         id:"accesorios"
@@ -71,7 +71,7 @@ const productos = [
 { 
     id: "accesorio-07",
     titulo: "Monitor 7",
-    imagen: "./img/accesorios/monitor7.jpg",
+    imagen: "./img/Accesorios/monitor7.jpg",
     categoria: {
         nombre: "Accesorios",
         id:"accesorios"
@@ -81,7 +81,7 @@ const productos = [
 { 
     id: "accesorio-08",
     titulo: "Monitor 8",
-    imagen: "./img/accesorios/monitor8.jfif",
+    imagen: "./img/Accesorios/monitor8.jfif",
     categoria: {
         nombre: "Accesorios",
         id:"accesorios"
