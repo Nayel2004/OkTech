@@ -95,7 +95,7 @@ const productos = [
 { 
     id: "computador-02",
     titulo: "Lenovo IdeaPad",
-    imagen: "./img/Computadores/Lenovo Ideapad.jpg",
+    imagen: "./img/LENOVO LOQ.jpg",
     categoria: {
         nombre: "Computadores",
         id:"Computadores"
